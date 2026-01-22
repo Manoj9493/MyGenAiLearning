@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/manojkumar.nallapothula/workspace/POC'S/fastApiBooksProject/Backend/virtualenv/lib/python3.11/site-packages",
+        "./Backend"
+    ]
+}
